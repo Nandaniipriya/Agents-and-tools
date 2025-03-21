@@ -1,0 +1,16 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+bs4
+arxiv
+langchain-text-splitters
+faiss-cpu
+langserve
+fastapi
+langchain_groq
+langchain_huggingface
+wikipedia
+streamlit
+
